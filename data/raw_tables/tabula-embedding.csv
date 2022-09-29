@@ -1,0 +1,26 @@
+Algorithm,GNA or LNA,PNA or MNA,Mapping
+GRAAL,GNA,PNA,One-to-one
+H-GRAAL,GNA,PNA,One-to-one
+MI-GRAAL,GNA,PNA,One-to-one
+C-GRAAL,GNA,PNA,One-to-one
+L-GRAAL,GNA,PNA,One-to-one
+IsoRank,GNA,PNA,One-to-one
+GHOST,GNA,PNA,One-to-one
+WAVE,GNA,PNA,One-to-one
+MAGNA,GNA,PNA,One-to-one
+MAGNA++,GNA,PNA,One-to-one
+SANA,GNA,PNA,One-to-one
+IGLOO,GNA,PNA,One-to-one
+NetworkBLAST,LNA,PNA,Many-to-many
+NetAligner,LNA,PNA,Many-to-many
+AlignNemo,LNA,PNA,Many-to-many
+AlignMCL,LNA,PNA,Many-to-many
+LocalAli,LNA,PNA,Many-to-many
+GLAlign,LNA,PNA,Many-to-many
+MultiMAGNA++,GNA,MNA,One-to-one
+GEDEVO-M,GNA,MNA,One-to-one
+IsoRankN,GNA,MNA,Many-to-many
+SMETANA,GNA,MNA,Many-to-many
+LocalAli,LNA,MNA,Many-to-many
+NetCoffee,GNA,MNA,Many-to-many
+BEAMS,GNA,MNA,Many-to-many
